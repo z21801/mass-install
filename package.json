@@ -1,0 +1,23 @@
+{
+  "name": "mass-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z21801/mass-install.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z21801/mass-install/issues"
+  },
+  "homepage": "https://github.com/z21801/mass-install#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
